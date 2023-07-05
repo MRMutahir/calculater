@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#center{
+    margin-top: 20px;
+}
+.btnrow1 button{
+    margin: 10px;
+    width: 40px;
+    text-align: center;
+}
+.btnrow1{
+    margin-top: 20px;
+}
